@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulsamad1999
-- 👀 I’m interested in ...Back-End Development (PHP(Laravel)/MYSQL)
-- 🌱 I’m currently learning ... Javascript, Wordpress Theme and Plugin Development
-- 💞️ I’m looking to collaborate on ... PHP(Laravel), Wordpress Theme and Plugin Development
+- 👀 I’m interested in ...AI/ML/CV | PHP/WordPress
+- 🌱 I’m currently learning ... Computer Vision | Javascript, WordPress Theme and Plugin Development
+- 💞️ I’m looking to collaborate on ... Computer Vision | PHP(Laravel), WordPress Theme and Plugin Development
 - 📫 How to reach me ... My Email: absam2026@gmail.com
 
 <!---
